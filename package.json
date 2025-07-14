@@ -27,5 +27,8 @@
   },
   "keywords": [],
   "type": "commonjs",
-  "description": ""
+  "description": "",
+  "engines": {
+  "node": "18.x"
+}
 }
